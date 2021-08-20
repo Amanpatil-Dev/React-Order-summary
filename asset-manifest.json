@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Order-summary/static/css/main.e8478f06.chunk.css",
+    "main.js": "/React-Order-summary/static/js/main.2e06d9c9.chunk.js",
+    "main.js.map": "/React-Order-summary/static/js/main.2e06d9c9.chunk.js.map",
+    "runtime-main.js": "/React-Order-summary/static/js/runtime-main.13ebd453.js",
+    "runtime-main.js.map": "/React-Order-summary/static/js/runtime-main.13ebd453.js.map",
+    "static/js/2.2f291770.chunk.js": "/React-Order-summary/static/js/2.2f291770.chunk.js",
+    "static/js/2.2f291770.chunk.js.map": "/React-Order-summary/static/js/2.2f291770.chunk.js.map",
+    "index.html": "/React-Order-summary/index.html",
+    "static/css/main.e8478f06.chunk.css.map": "/React-Order-summary/static/css/main.e8478f06.chunk.css.map",
+    "static/js/2.2f291770.chunk.js.LICENSE.txt": "/React-Order-summary/static/js/2.2f291770.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-Order-summary/static/media/pattern-background-desktop.5a0ab689.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13ebd453.js",
+    "static/js/2.2f291770.chunk.js",
+    "static/css/main.e8478f06.chunk.css",
+    "static/js/main.2e06d9c9.chunk.js"
+  ]
+}
